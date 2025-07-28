@@ -38,10 +38,10 @@ A servo motor control app built with Flutter, featuring multiple communication m
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.1.0                    # HTTP requests for Wi-Fi communication
+  http: ^1.1.0                   # HTTP requests for Wi-Fi communication
   flutter_blue_plus: ^1.14.16    # Bluetooth Low Energy support
   usb_serial: ^0.4.0             # USB Serial communication
-  cupertino_icons: ^1.0.8        # iOS-style icons
+  cupertino_icons: ^1.0.8        # For icons
 ```
 
 ### Installation
