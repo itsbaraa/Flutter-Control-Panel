@@ -89,4 +89,4 @@ dependencies:
 
 
 ### USB Serial Control Interface
-<img height="600" width="400" src="https://github.com/user-attachments/assets/21975513-93aa-4a65-8104-4684a65cd649"/>
+<img height="900" width="400" src="https://github.com/user-attachments/assets/21975513-93aa-4a65-8104-4684a65cd649"/>
