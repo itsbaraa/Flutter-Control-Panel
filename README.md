@@ -76,15 +76,15 @@ dependencies:
 ## Screenshots
   
 ### Home Screen
-<img height="700" width="400" src="https://github.com/user-attachments/assets/92c6f2fa-9660-4d26-a0ad-b840fd100994"/>
+<img height="900" width="400" src="https://github.com/user-attachments/assets/92c6f2fa-9660-4d26-a0ad-b840fd100994"/>
 
 
 ### Wi-Fi Control Interface
-<img height="700" width="400" src="https://github.com/user-attachments/assets/c3f8f145-2938-4de1-9e8c-1c03d10c9952"/>
+<img height="900" width="400" src="https://github.com/user-attachments/assets/c3f8f145-2938-4de1-9e8c-1c03d10c9952"/>
 
 
 ### Bluetooth Control Interface
-<img height="700" width="400" src="https://github.com/user-attachments/assets/c3b8e4b1-0680-4d31-96cc-0d8c7562223e"/>
+<img height="900" width="400" src="https://github.com/user-attachments/assets/c3b8e4b1-0680-4d31-96cc-0d8c7562223e"/>
 
 
 
